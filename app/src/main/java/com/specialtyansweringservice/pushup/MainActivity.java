@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void UpLoad(){
         int i=10;
+        int j=80;
     }
 }
